@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rltpredictionspl\n"
+"POT-Creation-Date: 2021-11-12 23:09+0500\n"
+"PO-Revision-Date: 2021-11-12 23:23+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: classes\n"
+"X-Poedit-SearchPath-1: templates\n"
+
+#: classes/class-predictions.php:32
+msgid "Predictions"
+msgstr "Prédictions"
+
+#: classes/class-predictions.php:33
+msgid "All Predictions"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:34
+#: classes/shortcode-bbredictions-archive.php:118
+#: classes/shortcode-bredictions-archive.php:118
+#: classes/shortcode-cpredictions-archive.php:118
+msgid "Prediction"
+msgstr "Prédiction"
+
+#: classes/class-predictions.php:35 classes/class-predictions.php:36
+msgid "Add New Prediction"
+msgstr "Ajouter une nouvelle prédiction"
+
+#: classes/class-predictions.php:37
+msgid "Edit Prediction"
+msgstr "Modifier la prédiction"
+
+#: classes/class-predictions.php:38
+msgid "New Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:39
+msgid "View Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:40
+msgid "Search Predictions"
+msgstr "Rechercher des prédictions"
+
+#: classes/class-predictions.php:41
+msgid "No predictions found"
+msgstr "Aucune prédiction trouvée"
+
+#: classes/class-predictions.php:42
+msgid "No predictions found in the trash"
+msgstr "Aucune prédiction trouvée dans la poubelle"
+
+#: classes/class-predictions.php:72
+#, fuzzy
+#| msgid "All Predictions"
+msgid "Baseball Predictions"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:73
+#, fuzzy
+#| msgid "All Predictions"
+msgid "All Baseball Predictions"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:74
+#, fuzzy
+#| msgid "All Predictions"
+msgid "Baseball Prediction"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:75 classes/class-predictions.php:76
+#, fuzzy
+#| msgid "Add New Prediction"
+msgid "Add New Baseball Prediction"
+msgstr "Ajouter une nouvelle prédiction"
+
+#: classes/class-predictions.php:77
+#, fuzzy
+#| msgid "Edit Prediction"
+msgid "Edit Baseball Prediction"
+msgstr "Modifier la prédiction"
+
+#: classes/class-predictions.php:78
+#, fuzzy
+#| msgid "New Prediction"
+msgid "New Baseball Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:79
+#, fuzzy
+#| msgid "View Prediction"
+msgid "View Baseball Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:80
+#, fuzzy
+#| msgid "Search Predictions"
+msgid "Search Baseball Predictions"
+msgstr "Rechercher des prédictions"
+
+#: classes/class-predictions.php:81
+#, fuzzy
+#| msgid "No predictions found"
+msgid "No baseball predictions found"
+msgstr "Aucune prédiction trouvée"
+
+#: classes/class-predictions.php:82
+#, fuzzy
+#| msgid "No predictions found in the trash"
+msgid "No baseball predictions found in the trash"
+msgstr "Aucune prédiction trouvée dans la poubelle"
+
+#: classes/class-predictions.php:112
+#, fuzzy
+#| msgid "Predictions"
+msgid "Hockey Prédictions"
+msgstr "Prédictions"
+
+#: classes/class-predictions.php:113
+#, fuzzy
+#| msgid "All Predictions"
+msgid "All Hockey Prédictions"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:114
+#, fuzzy
+#| msgid "New Prediction"
+msgid "Hockey Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:115
+#, fuzzy
+#| msgid "Add New Prediction"
+msgid "Add New Hockey Prediction"
+msgstr "Ajouter une nouvelle prédiction"
+
+#: classes/class-predictions.php:116
+#, fuzzy
+#| msgid "Add New Prediction"
+msgid "Add Hockey New Prediction"
+msgstr "Ajouter une nouvelle prédiction"
+
+#: classes/class-predictions.php:117
+#, fuzzy
+#| msgid "Edit Prediction"
+msgid "Edit Hockey Prediction"
+msgstr "Modifier la prédiction"
+
+#: classes/class-predictions.php:118
+#, fuzzy
+#| msgid "New Prediction"
+msgid "New Hockey Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:119
+#, fuzzy
+#| msgid "View Prediction"
+msgid "View Hockey Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:120
+#, fuzzy
+#| msgid "Search Predictions"
+msgid "Search Hockey Predictions"
+msgstr "Rechercher des prédictions"
+
+#: classes/class-predictions.php:121
+#, fuzzy
+#| msgid "No predictions found"
+msgid "No Hockey predictions found"
+msgstr "Aucune prédiction trouvée"
+
+#: classes/class-predictions.php:122
+#, fuzzy
+#| msgid "No predictions found in the trash"
+msgid "No Hockey predictions found in the trash"
+msgstr "Aucune prédiction trouvée dans la poubelle"
+
+#: classes/class-predictions.php:152
+#, fuzzy
+#| msgid "All Predictions"
+msgid "BasketBall Prédictions"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:153
+#, fuzzy
+#| msgid "All Predictions"
+msgid "All BasketBall Prédictions"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:154
+#, fuzzy
+#| msgid "All Predictions"
+msgid "BasketBall Prediction"
+msgstr "Toutes les prédictions"
+
+#: classes/class-predictions.php:155
+#, fuzzy
+#| msgid "Add New Prediction"
+msgid "Add New BasketBall Prediction"
+msgstr "Ajouter une nouvelle prédiction"
+
+#: classes/class-predictions.php:156
+#, fuzzy
+#| msgid "Add New Prediction"
+msgid "Add BasketBall New Prediction"
+msgstr "Ajouter une nouvelle prédiction"
+
+#: classes/class-predictions.php:157
+#, fuzzy
+#| msgid "Edit Prediction"
+msgid "Edit BasketBall Prediction"
+msgstr "Modifier la prédiction"
+
+#: classes/class-predictions.php:158
+#, fuzzy
+#| msgid "New Prediction"
+msgid "New BasketBall Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:159
+#, fuzzy
+#| msgid "View Prediction"
+msgid "View BasketBall Prediction"
+msgstr "Nouvelle prédiction"
+
+#: classes/class-predictions.php:160
+#, fuzzy
+#| msgid "Search Predictions"
+msgid "Search BasketBall Predictions"
+msgstr "Rechercher des prédictions"
+
+#: classes/class-predictions.php:161
+#, fuzzy
+#| msgid "No predictions found"
+msgid "No BasketBall predictions found"
+msgstr "Aucune prédiction trouvée"
+
+#: classes/class-predictions.php:162
+#, fuzzy
+#| msgid "No predictions found in the trash"
+msgid "No BasketBall predictions found in the trash"
+msgstr "Aucune prédiction trouvée dans la poubelle"
+
+#: classes/class-predictions.php:237 classes/class-predictions.php:360
+#: classes/class-predictions.php:476 classes/class-predictions.php:577
+msgid "Date"
+msgstr "Date"
+
+#: classes/class-predictions.php:241 classes/class-predictions.php:364
+#: classes/class-predictions.php:480 classes/class-predictions.php:581
+msgid "Time"
+msgstr "Temps"
+
+#: classes/class-predictions.php:245 classes/class-predictions.php:368
+#: classes/class-predictions.php:484 classes/class-predictions.php:585
+msgid "Team A Name"
+msgstr "Nom de l'équipe A"
+
+#: classes/class-predictions.php:249 classes/class-predictions.php:372
+#: classes/class-predictions.php:488 classes/class-predictions.php:589
+msgid "Team A Icon"
+msgstr "Icône de l'équipe A"
+
+#: classes/class-predictions.php:253 classes/class-predictions.php:376
+#: classes/class-predictions.php:492 classes/class-predictions.php:593
+msgid "Team B Name"
+msgstr "Nom de l'équipe B"
+
+#: classes/class-predictions.php:257 classes/class-predictions.php:380
+#: classes/class-predictions.php:496 classes/class-predictions.php:597
+msgid "Team B Icon"
+msgstr "Icône de l'équipe B"
+
+#: classes/class-predictions.php:261 classes/class-predictions.php:384
+#: classes/class-predictions.php:500 classes/class-predictions.php:601
+msgid "HOME WIN"
+msgstr "DOMICILE"
+
+#: classes/class-predictions.php:263 classes/class-predictions.php:268
+#: classes/class-predictions.php:273 classes/class-predictions.php:278
+#: classes/class-predictions.php:283 classes/class-predictions.php:288
+#: classes/class-predictions.php:293 classes/class-predictions.php:298
+#: classes/class-predictions.php:303 classes/class-predictions.php:308
+#: classes/class-predictions.php:313 classes/class-predictions.php:318
+#: classes/class-predictions.php:323 classes/class-predictions.php:386
+#: classes/class-predictions.php:391 classes/class-predictions.php:396
+#: classes/class-predictions.php:401 classes/class-predictions.php:406
+#: classes/class-predictions.php:411 classes/class-predictions.php:416
+#: classes/class-predictions.php:421 classes/class-predictions.php:426
+#: classes/class-predictions.php:431 classes/class-predictions.php:436
+#: classes/class-predictions.php:441 classes/class-predictions.php:446
+#: classes/class-predictions.php:502 classes/class-predictions.php:507
+#: classes/class-predictions.php:512 classes/class-predictions.php:517
+#: classes/class-predictions.php:522 classes/class-predictions.php:527
+#: classes/class-predictions.php:532 classes/class-predictions.php:537
+#: classes/class-predictions.php:542 classes/class-predictions.php:547
+#: classes/class-predictions.php:603 classes/class-predictions.php:608
+#: classes/class-predictions.php:613 classes/class-predictions.php:618
+#: classes/class-predictions.php:623 classes/class-predictions.php:628
+#: classes/class-predictions.php:633 classes/class-predictions.php:638
+#: classes/class-predictions.php:643 classes/class-predictions.php:648
+msgid "%"
+msgstr "%"
+
+#: classes/class-predictions.php:266 classes/class-predictions.php:389
+#: classes/shortcode-bbredictions-single .php:48
+#: classes/shortcode-predictions-single.php:36
+#: templates/single-prediction.php:43
+msgid "EQUALITY"
+msgstr "ÉGALITÉ"
+
+#: classes/class-predictions.php:271 classes/class-predictions.php:394
+#: classes/class-predictions.php:505 classes/class-predictions.php:606
+msgid "AWAY WIN"
+msgstr "EXTERIEUR"
+
+#: classes/class-predictions.php:276 classes/class-predictions.php:399
+msgid "HOME DNB"
+msgstr "HOME DNB"
+
+#: classes/class-predictions.php:281 classes/class-predictions.php:404
+msgid "AWAY DNB"
+msgstr "EXTERIEUR"
+
+#: classes/class-predictions.php:286 classes/class-predictions.php:409
+#: classes/class-predictions.php:510
+msgid "Yes"
+msgstr "OUI"
+
+#: classes/class-predictions.php:291 classes/class-predictions.php:414
+#: classes/class-predictions.php:515
+msgid "No"
+msgstr "NON"
+
+#: classes/class-predictions.php:296 classes/class-predictions.php:419
+#: classes/class-predictions.php:520
+msgid "+ 1.5"
+msgstr "+ 1.5"
+
+#: classes/class-predictions.php:301 classes/class-predictions.php:424
+#: classes/class-predictions.php:525
+msgid "- 1.5"
+msgstr "- 1.5"
+
+#: classes/class-predictions.php:306 classes/class-predictions.php:429
+#: classes/class-predictions.php:530
+msgid "+ 2.5"
+msgstr "+ 2.5"
+
+#: classes/class-predictions.php:311 classes/class-predictions.php:434
+#: classes/class-predictions.php:535
+msgid "- 2.5"
+msgstr "- 2.5"
+
+#: classes/class-predictions.php:316 classes/class-predictions.php:439
+#: classes/class-predictions.php:540
+msgid "+ 3.5"
+msgstr "+ 3.5"
+
+#: classes/class-predictions.php:321 classes/class-predictions.php:444
+#: classes/class-predictions.php:545
+msgid "- 3.5"
+msgstr "- 3.5"
+
+#: classes/class-predictions.php:326
+msgid "SCORE 1"
+msgstr "SCORE 1"
+
+#: classes/class-predictions.php:330
+msgid "SCORE 2"
+msgstr "SCORE 2"
+
+#: classes/class-predictions.php:334 classes/class-predictions.php:449
+#: classes/class-predictions.php:550 classes/class-predictions.php:651
+msgid "AVIS"
+msgstr ""
+
+#: classes/class-predictions.php:338 classes/class-predictions.php:453
+#: classes/class-predictions.php:554 classes/class-predictions.php:655
+msgid "COUNTRY"
+msgstr "PAYS"
+
+#: classes/class-predictions.php:342 classes/class-predictions.php:457
+#: classes/class-predictions.php:558 classes/class-predictions.php:659
+msgid "LEAGUE"
+msgstr "LIGUE"
+
+#: classes/class-predictions.php:611
+msgid "+ 200"
+msgstr ""
+
+#: classes/class-predictions.php:616
+msgid "- 200"
+msgstr ""
+
+#: classes/class-predictions.php:621
+msgid "+ 210"
+msgstr ""
+
+#: classes/class-predictions.php:626
+msgid "- 210"
+msgstr ""
+
+#: classes/class-predictions.php:631
+msgid "+ 220"
+msgstr ""
+
+#: classes/class-predictions.php:636
+msgid "- 220"
+msgstr ""
+
+#: classes/class-predictions.php:641
+msgid "+ 230"
+msgstr ""
+
+#: classes/class-predictions.php:646
+msgid "- 230"
+msgstr ""
+
+#: classes/class-predictionsadmin.php:33 classes/class-predictionsadmin.php:34
+msgid "Predictions Setting"
+msgstr "Réglage des prévisions"
+
+#: classes/class-predictionsadmin.php:50
+msgid "Ratings Shortcode"
+msgstr "Ratings Shortcode"
+
+#: classes/class-predictionsadmin.php:56
+msgid "Total Ratings"
+msgstr "Notes totales"
+
+#: classes/class-predictionsadmin.php:64
+#: classes/shortcode-prediction-menu.php:15
+msgid "Submit"
+msgstr "Soumettre"
+
+#: classes/class-predictionsadmin.php:105
+msgid "Saved!"
+msgstr "Mis à jour!"
+
+#: classes/class-predictionsadmin.php:108
+msgid "Please enter complete details!"
+msgstr "Veuillez entrer les détails complets!"
+
+#: classes/shortcode-bbredictions-archive.php:68
+#: classes/shortcode-bbredictions-single .php:309
+#: classes/shortcode-bredictions-archive.php:68
+#: classes/shortcode-bredictions-single.php:240
+#: classes/shortcode-cpredictions-archive.php:68
+#: classes/shortcode-cpredictions-single.php:234
+#: classes/shortcode-predictions-single.php:316
+msgid "GO BACK"
+msgstr "REVENIR EN ARRIÉRE"
+
+#: classes/shortcode-bbredictions-archive.php:90
+#: classes/shortcode-bredictions-archive.php:90
+#: classes/shortcode-cpredictions-archive.php:90
+#: classes/shortcode-predictions-archive.php:25
+#: templates/archive-prediction.php:28
+msgid "TODAY"
+msgstr "Aujourd'hui"
+
+#: classes/shortcode-bbredictions-archive.php:97
+#: classes/shortcode-bredictions-archive.php:97
+#: classes/shortcode-cpredictions-archive.php:97
+#: templates/archive-prediction.php:35
+msgid "TOMMORROW"
+msgstr "Demain"
+
+#: classes/shortcode-bbredictions-archive.php:104
+#: classes/shortcode-bredictions-archive.php:104
+#: classes/shortcode-cpredictions-archive.php:104
+#: classes/shortcode-predictions-archive.php:28
+#: classes/shortcode-predictions-archive.php:31
+#: templates/archive-prediction.php:42
+msgid "AFTER TOMMORROW"
+msgstr "Après-demain"
+
+#: classes/shortcode-bbredictions-archive.php:110
+#: classes/shortcode-bredictions-archive.php:110
+#: classes/shortcode-cpredictions-archive.php:110
+msgid "LATER"
+msgstr "PLUS TARD"
+
+#: classes/shortcode-bbredictions-archive.php:128
+#: classes/shortcode-bredictions-archive.php:128
+#: classes/shortcode-cpredictions-archive.php:128
+#: templates/archive-prediction.php:60
+msgid "Date hour"
+msgstr "Date & Heure"
+
+#: classes/shortcode-bbredictions-archive.php:133
+#: classes/shortcode-bredictions-archive.php:133
+#: classes/shortcode-cpredictions-archive.php:133
+#: classes/shortcode-predictions-archive.php:102
+#: classes/shortcode-predictions-archive.php:189
+#: classes/shortcode-predictions-archive.php:276
+#: templates/archive-prediction.php:65
+msgid "SIMULATE THE MATCH"
+msgstr "Simuler le match"
+
+#: classes/shortcode-bbredictions-single .php:22
+#: classes/shortcode-bredictions-single.php:22
+#: classes/shortcode-cpredictions-single.php:22
+#: classes/shortcode-predictions-single.php:22
+#: templates/single-prediction.php:29
+msgid "CHANCES OF VICTORY"
+msgstr "CHANCES DE VICTOIRE"
+
+#: classes/shortcode-bbredictions-single .php:40 .php:105
+#: classes/shortcode-bredictions-single.php:28
+#: classes/shortcode-cpredictions-single.php:28
+#: classes/shortcode-predictions-single.php:28
+#: classes/shortcode-predictions-single.php:93
+#: templates/single-prediction.php:35 templates/single-prediction.php:70
+msgid "HOME"
+msgstr "DOMICILE"
+
+#: classes/shortcode-bbredictions-single .php:56 .php:109
+#: classes/shortcode-bredictions-single.php:36
+#: classes/shortcode-cpredictions-single.php:36
+#: classes/shortcode-predictions-single.php:44
+#: classes/shortcode-predictions-single.php:97
+#: templates/single-prediction.php:51 templates/single-prediction.php:74
+msgid "AWAY"
+msgstr "EXTERIEUR"
+
+#: classes/shortcode-bbredictions-single .php:64
+#: classes/shortcode-bredictions-single.php:44
+#: classes/shortcode-cpredictions-single.php:44
+#: classes/shortcode-predictions-single.php:52
+#: templates/single-prediction.php:59
+msgid "CHANCES OF VICTORY FOR THE FINAL RESULT OF THE MATCH"
+msgstr "CHANCES DE VICTOIRE POUR LE RÉSULTAT FINAL DU MATCH"
+
+#: classes/shortcode-bbredictions-single .php:69
+#: classes/shortcode-predictions-single.php:57
+#: templates/single-prediction.php:64
+msgid "WINNER REFUNDED IF NO ONE"
+msgstr "VAINQUEUR REMBOURSÉ SI NUL"
+
+#: classes/shortcode-bbredictions-single .php:114
+#: classes/shortcode-predictions-single.php:102
+#: templates/single-prediction.php:79
+msgid "CHANCES OF VICTORY FOR EACH TEAM (EXCLUDING DRAW)"
+msgstr "CHANCES DE VICTOIRE POUR CHAQUE ÉQUIPE (HORS MATCH NUL)"
+
+#: classes/shortcode-bbredictions-single .php:119
+#: classes/shortcode-bredictions-single.php:175
+#: classes/shortcode-predictions-single.php:251
+#: templates/single-prediction.php:220
+msgid "BOTH TEAMS SCORE"
+msgstr "LES 2 ÉQUIPES MARQUENT ?"
+
+#: classes/shortcode-bbredictions-single .php:131
+#: classes/shortcode-bredictions-single.php:187
+#: classes/shortcode-predictions-single.php:263
+#: templates/single-prediction.php:232
+msgid "YES"
+msgstr "OUI"
+
+#: classes/shortcode-bbredictions-single .php:145
+#: classes/shortcode-bredictions-single.php:201
+#: classes/shortcode-predictions-single.php:277
+#: templates/single-prediction.php:246
+msgid "NO"
+msgstr "NON"
+
+#: classes/shortcode-bbredictions-single .php:158
+#: classes/shortcode-bredictions-single.php:214
+#: classes/shortcode-predictions-single.php:290
+#: templates/single-prediction.php:259
+msgid "PROBABILITY THAT BOTH TEAMS WILL SCORE OR NOT"
+msgstr "PROBABILITÉ QUE LES DEUX ÉQUIPES MARQUENT OU NON"
+
+#: classes/shortcode-bbredictions-single .php:163
+#: classes/shortcode-bredictions-single.php:49
+#: classes/shortcode-predictions-single.php:126
+#: templates/single-prediction.php:95
+msgid "NUMBER OF GOALS"
+msgstr "NOMBRE DE BUTS"
+
+#: classes/shortcode-bbredictions-single .php:168 .php:206 .php:244
+#: classes/shortcode-bredictions-single.php:54
+#: classes/shortcode-bredictions-single.php:92
+#: classes/shortcode-bredictions-single.php:130
+#: classes/shortcode-cpredictions-single.php:54
+#: classes/shortcode-cpredictions-single.php:92
+#: classes/shortcode-cpredictions-single.php:130
+#: classes/shortcode-cpredictions-single.php:168
+#: classes/shortcode-predictions-single.php:131
+#: classes/shortcode-predictions-single.php:169
+#: classes/shortcode-predictions-single.php:207
+#: templates/single-prediction.php:100 templates/single-prediction.php:138
+#: templates/single-prediction.php:176
+msgid "PLUS"
+msgstr "PLUS"
+
+#: classes/shortcode-bbredictions-single .php:171 .php:209 .php:247
+#: classes/shortcode-bredictions-single.php:57
+#: classes/shortcode-bredictions-single.php:95
+#: classes/shortcode-bredictions-single.php:133
+#: classes/shortcode-cpredictions-single.php:57
+#: classes/shortcode-cpredictions-single.php:95
+#: classes/shortcode-cpredictions-single.php:133
+#: classes/shortcode-cpredictions-single.php:171
+#: classes/shortcode-predictions-single.php:134
+#: classes/shortcode-predictions-single.php:172
+#: classes/shortcode-predictions-single.php:210
+#: templates/single-prediction.php:103 templates/single-prediction.php:141
+#: templates/single-prediction.php:179
+msgid "MINUS"
+msgstr "MOINS"
+
+#: classes/shortcode-bbredictions-single .php:283
+#: classes/shortcode-bredictions-single.php:170
+#: classes/shortcode-predictions-single.php:246
+#: templates/single-prediction.php:215
+msgid "PROBABILITY OF THE NUMBER OF GOALS SCORED"
+msgstr "LE NOMBRE DE BUTS PROBABLE"
+
+#: classes/shortcode-bbredictions-single .php:288
+#: classes/shortcode-bredictions-single.php:219
+#: classes/shortcode-cpredictions-single.php:213
+#: classes/shortcode-predictions-single.php:295
+msgid "AVIS ULTRA SAFE ALGO"
+msgstr "AVIS ULTRA SAFE ALGO"
+
+#: classes/shortcode-bbredictions-single .php:302
+#: classes/shortcode-bredictions-single.php:233
+#: classes/shortcode-cpredictions-single.php:227
+#: classes/shortcode-predictions-single.php:309
+msgid "Ce qui est le plus probable d’arriver"
+msgstr "Ce qui est le plus probable d’arriver"
+
+#: classes/shortcode-cpredictions-single.php:49
+msgid "NOMBER DE POINTS"
+msgstr "NOMBER DE POINTS"
+
+#: classes/shortcode-cpredictions-single.php:208
+msgid "LE NOMBRE DE POINTS PROBABLE"
+msgstr "LE NOMBRE DE POINTS PROBABLE"
+
+#: classes/shortcode-prediction-menu.php:18
+msgid "MEMBERS PLAYED THIS PREDICTION"
+msgstr "MEMBRES ONT JOUÉ CETTE PRÉDICTION"
+
+#: classes/shortcode-predictions-archive.php:20
+msgid "Upcoming matches"
+msgstr "Matchs à venir"
+
+#: classes/shortcode-predictions-single.php:107
+#: templates/single-prediction.php:264
+msgid "SCORE EXACT"
+msgstr "SCORE EXACT"
+
+#: classes/shortcode-predictions-single.php:121
+#: templates/single-prediction.php:278
+msgid "THE 2 MOST PROBABLE EXACT SCORES AT THE END OF THE MATCH"
+msgstr "DES SCORES EXACTS A TENTER POUR VIBRER"
+
+#~ msgid "VS"
+#~ msgstr "VS"
+
+#~ msgid "ON "
+#~ msgstr "LE "
+
+#~ msgid "MEJMERBET PREDICTION"
+#~ msgstr "MEJMERBET PRÉDICTION"
+
+#~ msgid "REFUNDED IF VOID"
+#~ msgstr "REMBOURSÉ SI NUL"
+
+#~ msgid "MI TEMPS"
+#~ msgstr "MI TEMPS"
+
+#~ msgid "BUTS"
+#~ msgstr "BUTS"
+
+#~ msgid "TO VIBRATE MORE"
+#~ msgstr "POUR VIBRER DAVANTAGE"
+
+#~ msgid "MEJMERBET'S ADVICE"
+#~ msgstr "LES CONSEILS DE MEJMERBET"
+
+#~ msgid "SAFE"
+#~ msgstr "SAFE"
+
+#~ msgid "FUN"
+#~ msgstr "FUN"
+
+#~ msgid "HALF TIME HOME"
+#~ msgstr "HALF TIME HOME"
+
+#~ msgid "HALF TIME EQUALITY"
+#~ msgstr "HALF TIME EQUALITY"
+
+#~ msgid "HALF TIME AWAY"
+#~ msgstr "HALF TIME AWAY"
+
+#~ msgid "SCORE 3"
+#~ msgstr "SCORE 3"
+
+#~ msgid "ADVICE"
+#~ msgstr "CONSEIL"
+
+#~ msgid "STARS YELLOW"
+#~ msgstr "Étoiles jaunes"
+
+#~ msgid "ADVICE FROM MejMerBET THE ROBOT"
+#~ msgstr "CONSEIL DE MejMerBET LE ROBOT"

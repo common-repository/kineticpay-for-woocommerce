@@ -1,0 +1,893 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kineticpaywc\n"
+"POT-Creation-Date: 2022-04-05 20:11+0500\n"
+"PO-Revision-Date: 2022-04-05 20:11+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_attr__;esc_attr_e;esc_html__\n"
+"X-Poedit-SearchPath-0: classes\n"
+"X-Poedit-SearchPath-1: src\n"
+
+#: classes/admin/class.kineticpay-admin-settings.php:134
+#: classes/admin/class.kineticpay-admin-settings.php:782
+msgid ""
+"This first name has been banned, please try other first name or Kindly "
+"contact admin."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:135
+#: classes/admin/class.kineticpay-admin-settings.php:783
+msgid ""
+"This last name has been banned, please try other last name or Kindly contact "
+"admin."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:136
+#: classes/admin/class.kineticpay-admin-settings.php:784
+msgid ""
+"This identification card has been banned, please try other identification "
+"card or Kindly contact admin."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:193
+msgid "KineticPay"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:259
+#: classes/admin/class.kineticpay-admin-settings.php:615
+msgid "User Ban List Settings"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:268
+#: classes/admin/class.kineticpay-admin-settings.php:624
+msgid "Checkout Custom Fields"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:277
+#: classes/admin/class.kineticpay-admin-settings.php:633
+msgid "Settings"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:294
+#: classes/admin/class.kineticpay-admin-settings.php:650
+msgid "Data has been updated."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:428
+msgid "Enable/Disable Features"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:430
+#: classes/admin/class.kineticpay-admin-settings.php:572
+#: classes/admin/class.kineticpay-admin-settings.php:792
+#: classes/admin/class.kineticpay-admin-settings.php:956
+msgid "Save Changes"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:437
+msgid "Woocommerce Orders User Ban List"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:447
+#: classes/admin/class.kineticpay-admin-settings.php:466
+#: classes/admin/class.kineticpay-admin-settings.php:490
+msgid "Enable Ban List"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:480
+#: classes/admin/class.kineticpay-admin-settings.php:523
+msgid "Woocommerce Custom Checkout Fields"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:509
+msgid "Enable Custom Fields"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:533
+msgid "Enable Worldwide Ban List"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:552
+msgid "Enable Worldwide Ban"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:790
+msgid "Woocommerce Orders User Ban List Settings"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:800
+msgid "First Name"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:805
+msgid "Add first name separated by comma"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:825
+msgid "Add multiple first names to ban users"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:832
+msgid "Last Name"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:838
+msgid "Add lastname separated by comma"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:858
+msgid "Add multiple last names to ban users"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:865
+msgid "Identification card"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:871
+msgid "Add identification card separated by comma"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:891
+msgid "Add multiple identification card to ban users"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:899
+msgid ""
+"In this section you can add your custom messages OR our message will be "
+"printed as by default."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:906
+msgid "First Name error message"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:914
+msgid ""
+"Enter the error message you want to show user when banned first name found."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:921
+msgid "Last Name error message"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:929
+msgid ""
+"Enter the error message you want to show user when banned last name found."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:936
+msgid "Identification Card error message"
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:944
+msgid ""
+"Enter the error message you want to show user when banned identification "
+"card found."
+msgstr ""
+
+#: classes/admin/class.kineticpay-admin-settings.php:961
+msgid "Reset all settings"
+msgstr ""
+
+#: classes/admin/class.kineticpay-checkout-fields.php:40
+msgid "Billing Custom Files/Images"
+msgstr ""
+
+#: classes/admin/class.kineticpay-checkout-fields.php:41
+msgid "Shipping Custom Files/Images"
+msgstr ""
+
+#: classes/admin/class.kineticpay-checkout-fields.php:42
+msgid "Verification Custom Fields"
+msgstr ""
+
+#: classes/admin/view/view.php:17
+msgid "Custom Checkout Fields"
+msgstr ""
+
+#: classes/admin/view/view.php:20
+msgid "Billing Information"
+msgstr ""
+
+#: classes/admin/view/view.php:21
+msgid "Shipping Information"
+msgstr ""
+
+#: classes/admin/view/view.php:22
+msgid "Verification Information"
+msgstr ""
+
+#: classes/admin/view/view.php:29
+msgid "Form Fields"
+msgstr ""
+
+#: classes/admin/view/view.php:50 classes/admin/view/view.php:139
+#: classes/admin/view/view.php:220 classes/admin/view/view.php:311
+#: classes/admin/view/view.php:402 classes/admin/view/view.php:483
+#: classes/admin/view/view.php:577 classes/admin/view/view.php:659
+#: classes/admin/view/view.php:742 classes/admin/view/view.php:825
+#: classes/admin/view/view.php:914 classes/admin/view/view.php:985
+#: classes/admin/view/view.php:1067 classes/admin/view/view.php:1150
+#: classes/admin/view/view.php:1233 classes/admin/view/view.php:1324
+#: classes/admin/view/view.php:1547 classes/admin/view/view.php:1631
+#: classes/admin/view/view.php:1713 classes/admin/view/view.php:1802
+#: classes/admin/view/view.php:1890 classes/admin/view/view.php:1970
+#: classes/admin/view/view.php:2064 classes/admin/view/view.php:2151
+#: classes/admin/view/view.php:2230 classes/admin/view/view.php:2307
+#: classes/admin/view/view.php:2388 classes/admin/view/view.php:2459
+#: classes/admin/view/view.php:2539 classes/admin/view/view.php:2619
+#: classes/admin/view/view.php:2699 classes/admin/view/view.php:2789
+#: classes/admin/view/view.php:3002 classes/admin/view/view.php:3082
+#: classes/admin/view/view.php:3169 classes/admin/view/view.php:3259
+#: classes/admin/view/view.php:3346 classes/admin/view/view.php:3428
+#: classes/admin/view/view.php:3521 classes/admin/view/view.php:3600
+#: classes/admin/view/view.php:3679 classes/admin/view/view.php:3723
+#: classes/admin/view/view.php:3806 classes/admin/view/view.php:3875
+#: classes/admin/view/view.php:3957 classes/admin/view/view.php:4038
+#: classes/admin/view/view.php:4119 classes/admin/view/view.php:4203
+#: classes/admin/view/view.php:4285
+msgid "Label:"
+msgstr ""
+
+#: classes/admin/view/view.php:55 classes/admin/view/view.php:142
+#: classes/admin/view/view.php:223 classes/admin/view/view.php:314
+#: classes/admin/view/view.php:405 classes/admin/view/view.php:486
+#: classes/admin/view/view.php:580 classes/admin/view/view.php:662
+#: classes/admin/view/view.php:745 classes/admin/view/view.php:988
+#: classes/admin/view/view.php:1070 classes/admin/view/view.php:1153
+#: classes/admin/view/view.php:1236 classes/admin/view/view.php:1337
+#: classes/admin/view/view.php:1550 classes/admin/view/view.php:1634
+#: classes/admin/view/view.php:1716 classes/admin/view/view.php:1805
+#: classes/admin/view/view.php:1893 classes/admin/view/view.php:1973
+#: classes/admin/view/view.php:2069 classes/admin/view/view.php:2154
+#: classes/admin/view/view.php:2233 classes/admin/view/view.php:2462
+#: classes/admin/view/view.php:2542 classes/admin/view/view.php:2622
+#: classes/admin/view/view.php:2702 classes/admin/view/view.php:2803
+#: classes/admin/view/view.php:3005 classes/admin/view/view.php:3087
+#: classes/admin/view/view.php:3172 classes/admin/view/view.php:3262
+#: classes/admin/view/view.php:3351 classes/admin/view/view.php:3431
+#: classes/admin/view/view.php:3524 classes/admin/view/view.php:3603
+#: classes/admin/view/view.php:3682 classes/admin/view/view.php:3878
+#: classes/admin/view/view.php:3960 classes/admin/view/view.php:4041
+#: classes/admin/view/view.php:4122 classes/admin/view/view.php:4206
+#: classes/admin/view/view.php:4298
+msgid "Required:"
+msgstr ""
+
+#: classes/admin/view/view.php:60 classes/admin/view/view.php:145
+#: classes/admin/view/view.php:226 classes/admin/view/view.php:317
+#: classes/admin/view/view.php:408 classes/admin/view/view.php:489
+#: classes/admin/view/view.php:583 classes/admin/view/view.php:665
+#: classes/admin/view/view.php:748 classes/admin/view/view.php:834
+#: classes/admin/view/view.php:922 classes/admin/view/view.php:991
+#: classes/admin/view/view.php:1073 classes/admin/view/view.php:1156
+#: classes/admin/view/view.php:1239 classes/admin/view/view.php:1332
+#: classes/admin/view/view.php:1342 classes/admin/view/view.php:1553
+#: classes/admin/view/view.php:1637 classes/admin/view/view.php:1719
+#: classes/admin/view/view.php:1808 classes/admin/view/view.php:1896
+#: classes/admin/view/view.php:1976 classes/admin/view/view.php:2074
+#: classes/admin/view/view.php:2157 classes/admin/view/view.php:2236
+#: classes/admin/view/view.php:2314 classes/admin/view/view.php:2397
+#: classes/admin/view/view.php:2465 classes/admin/view/view.php:2545
+#: classes/admin/view/view.php:2625 classes/admin/view/view.php:2705
+#: classes/admin/view/view.php:2798 classes/admin/view/view.php:2808
+#: classes/admin/view/view.php:3008 classes/admin/view/view.php:3092
+#: classes/admin/view/view.php:3175 classes/admin/view/view.php:3265
+#: classes/admin/view/view.php:3356 classes/admin/view/view.php:3434
+#: classes/admin/view/view.php:3527 classes/admin/view/view.php:3606
+#: classes/admin/view/view.php:3685 classes/admin/view/view.php:3732
+#: classes/admin/view/view.php:3813 classes/admin/view/view.php:3881
+#: classes/admin/view/view.php:3963 classes/admin/view/view.php:4044
+#: classes/admin/view/view.php:4125 classes/admin/view/view.php:4209
+#: classes/admin/view/view.php:4293 classes/admin/view/view.php:4303
+msgid "Hide:"
+msgstr ""
+
+#: classes/admin/view/view.php:65 classes/admin/view/view.php:148
+#: classes/admin/view/view.php:586 classes/admin/view/view.php:668
+#: classes/admin/view/view.php:751 classes/admin/view/view.php:994
+#: classes/admin/view/view.php:1076 classes/admin/view/view.php:1159
+#: classes/admin/view/view.php:1242 classes/admin/view/view.php:1418
+#: classes/admin/view/view.php:1557 classes/admin/view/view.php:1641
+#: classes/admin/view/view.php:2079 classes/admin/view/view.php:2160
+#: classes/admin/view/view.php:2239 classes/admin/view/view.php:2468
+#: classes/admin/view/view.php:2548 classes/admin/view/view.php:2628
+#: classes/admin/view/view.php:2708 classes/admin/view/view.php:2881
+#: classes/admin/view/view.php:3011 classes/admin/view/view.php:3097
+#: classes/admin/view/view.php:3530 classes/admin/view/view.php:3609
+#: classes/admin/view/view.php:3688 classes/admin/view/view.php:3884
+#: classes/admin/view/view.php:3966 classes/admin/view/view.php:4047
+#: classes/admin/view/view.php:4128 classes/admin/view/view.php:4212
+#: classes/admin/view/view.php:4375
+msgid "Placeholder:"
+msgstr ""
+
+#: classes/admin/view/view.php:69 classes/admin/view/view.php:151
+#: classes/admin/view/view.php:244 classes/admin/view/view.php:335
+#: classes/admin/view/view.php:412 classes/admin/view/view.php:510
+#: classes/admin/view/view.php:589 classes/admin/view/view.php:671
+#: classes/admin/view/view.php:997 classes/admin/view/view.php:1079
+#: classes/admin/view/view.php:1162 classes/admin/view/view.php:1245
+#: classes/admin/view/view.php:1440 classes/admin/view/view.php:1561
+#: classes/admin/view/view.php:1644 classes/admin/view/view.php:1738
+#: classes/admin/view/view.php:1826 classes/admin/view/view.php:1900
+#: classes/admin/view/view.php:1999 classes/admin/view/view.php:2084
+#: classes/admin/view/view.php:2163 classes/admin/view/view.php:2471
+#: classes/admin/view/view.php:2551 classes/admin/view/view.php:2631
+#: classes/admin/view/view.php:2711 classes/admin/view/view.php:2901
+#: classes/admin/view/view.php:3014 classes/admin/view/view.php:3102
+#: classes/admin/view/view.php:3195 classes/admin/view/view.php:3282
+#: classes/admin/view/view.php:3360 classes/admin/view/view.php:3455
+#: classes/admin/view/view.php:3533 classes/admin/view/view.php:3612
+#: classes/admin/view/view.php:3887 classes/admin/view/view.php:3969
+#: classes/admin/view/view.php:4050 classes/admin/view/view.php:4131
+#: classes/admin/view/view.php:4215 classes/admin/view/view.php:4395
+msgid "Field Width:"
+msgstr ""
+
+#: classes/admin/view/view.php:71 classes/admin/view/view.php:153
+#: classes/admin/view/view.php:246 classes/admin/view/view.php:337
+#: classes/admin/view/view.php:414 classes/admin/view/view.php:512
+#: classes/admin/view/view.php:591 classes/admin/view/view.php:673
+#: classes/admin/view/view.php:999 classes/admin/view/view.php:1081
+#: classes/admin/view/view.php:1164 classes/admin/view/view.php:1247
+#: classes/admin/view/view.php:1442 classes/admin/view/view.php:1563
+#: classes/admin/view/view.php:1646 classes/admin/view/view.php:1740
+#: classes/admin/view/view.php:1828 classes/admin/view/view.php:1902
+#: classes/admin/view/view.php:2001 classes/admin/view/view.php:2086
+#: classes/admin/view/view.php:2165 classes/admin/view/view.php:2473
+#: classes/admin/view/view.php:2553 classes/admin/view/view.php:2633
+#: classes/admin/view/view.php:2713 classes/admin/view/view.php:2903
+#: classes/admin/view/view.php:3016 classes/admin/view/view.php:3104
+#: classes/admin/view/view.php:3197 classes/admin/view/view.php:3284
+#: classes/admin/view/view.php:3362 classes/admin/view/view.php:3457
+#: classes/admin/view/view.php:3535 classes/admin/view/view.php:3614
+#: classes/admin/view/view.php:3889 classes/admin/view/view.php:3971
+#: classes/admin/view/view.php:4052 classes/admin/view/view.php:4133
+#: classes/admin/view/view.php:4217 classes/admin/view/view.php:4397
+msgid "Full Width"
+msgstr ""
+
+#: classes/admin/view/view.php:72 classes/admin/view/view.php:154
+#: classes/admin/view/view.php:247 classes/admin/view/view.php:338
+#: classes/admin/view/view.php:415 classes/admin/view/view.php:513
+#: classes/admin/view/view.php:592 classes/admin/view/view.php:674
+#: classes/admin/view/view.php:1000 classes/admin/view/view.php:1082
+#: classes/admin/view/view.php:1165 classes/admin/view/view.php:1248
+#: classes/admin/view/view.php:1443 classes/admin/view/view.php:1564
+#: classes/admin/view/view.php:1647 classes/admin/view/view.php:1741
+#: classes/admin/view/view.php:1829 classes/admin/view/view.php:1903
+#: classes/admin/view/view.php:2002 classes/admin/view/view.php:2087
+#: classes/admin/view/view.php:2166 classes/admin/view/view.php:2474
+#: classes/admin/view/view.php:2554 classes/admin/view/view.php:2634
+#: classes/admin/view/view.php:2714 classes/admin/view/view.php:2904
+#: classes/admin/view/view.php:3017 classes/admin/view/view.php:3105
+#: classes/admin/view/view.php:3198 classes/admin/view/view.php:3285
+#: classes/admin/view/view.php:3363 classes/admin/view/view.php:3458
+#: classes/admin/view/view.php:3536 classes/admin/view/view.php:3615
+#: classes/admin/view/view.php:3890 classes/admin/view/view.php:3972
+#: classes/admin/view/view.php:4053 classes/admin/view/view.php:4134
+#: classes/admin/view/view.php:4218 classes/admin/view/view.php:4398
+msgid "Half Width"
+msgstr ""
+
+#: classes/admin/view/view.php:77 classes/admin/view/view.php:159
+#: classes/admin/view/view.php:420 classes/admin/view/view.php:597
+#: classes/admin/view/view.php:679 classes/admin/view/view.php:759
+#: classes/admin/view/view.php:1004 classes/admin/view/view.php:1087
+#: classes/admin/view/view.php:1170 classes/admin/view/view.php:1253
+#: classes/admin/view/view.php:1453 classes/admin/view/view.php:1569
+#: classes/admin/view/view.php:1652 classes/admin/view/view.php:1908
+#: classes/admin/view/view.php:2091 classes/admin/view/view.php:2170
+#: classes/admin/view/view.php:2246 classes/admin/view/view.php:2478
+#: classes/admin/view/view.php:2558 classes/admin/view/view.php:2638
+#: classes/admin/view/view.php:2719 classes/admin/view/view.php:2910
+#: classes/admin/view/view.php:3021 classes/admin/view/view.php:3109
+#: classes/admin/view/view.php:3367 classes/admin/view/view.php:3540
+#: classes/admin/view/view.php:3619 classes/admin/view/view.php:3695
+#: classes/admin/view/view.php:3895 classes/admin/view/view.php:3977
+#: classes/admin/view/view.php:4058 classes/admin/view/view.php:4139
+#: classes/admin/view/view.php:4405
+msgid "Price:"
+msgstr ""
+
+#: classes/admin/view/view.php:83 classes/admin/view/view.php:165
+#: classes/admin/view/view.php:253 classes/admin/view/view.php:344
+#: classes/admin/view/view.php:426 classes/admin/view/view.php:519
+#: classes/admin/view/view.php:603 classes/admin/view/view.php:685
+#: classes/admin/view/view.php:767 classes/admin/view/view.php:853
+#: classes/admin/view/view.php:928 classes/admin/view/view.php:1010
+#: classes/admin/view/view.php:1093 classes/admin/view/view.php:1176
+#: classes/admin/view/view.php:1259 classes/admin/view/view.php:1459
+#: classes/admin/view/view.php:1575 classes/admin/view/view.php:1658
+#: classes/admin/view/view.php:1746 classes/admin/view/view.php:1834
+#: classes/admin/view/view.php:1914 classes/admin/view/view.php:2007
+#: classes/admin/view/view.php:2096 classes/admin/view/view.php:2175
+#: classes/admin/view/view.php:2251 classes/admin/view/view.php:2330
+#: classes/admin/view/view.php:2402 classes/admin/view/view.php:2483
+#: classes/admin/view/view.php:2563 classes/admin/view/view.php:2643
+#: classes/admin/view/view.php:2725 classes/admin/view/view.php:2916
+#: classes/admin/view/view.php:3026 classes/admin/view/view.php:3114
+#: classes/admin/view/view.php:3203 classes/admin/view/view.php:3290
+#: classes/admin/view/view.php:3372 classes/admin/view/view.php:3463
+#: classes/admin/view/view.php:3545 classes/admin/view/view.php:3624
+#: classes/admin/view/view.php:3749 classes/admin/view/view.php:3818
+#: classes/admin/view/view.php:3901 classes/admin/view/view.php:3982
+#: classes/admin/view/view.php:4063 classes/admin/view/view.php:4144
+#: classes/admin/view/view.php:4223 classes/admin/view/view.php:4411
+msgid "Conditional Logic:"
+msgstr ""
+
+#: classes/admin/view/view.php:89 classes/admin/view/view.php:97
+#: classes/admin/view/view.php:103 classes/admin/view/view.php:171
+#: classes/admin/view/view.php:179 classes/admin/view/view.php:185
+#: classes/admin/view/view.php:259 classes/admin/view/view.php:267
+#: classes/admin/view/view.php:273 classes/admin/view/view.php:350
+#: classes/admin/view/view.php:358 classes/admin/view/view.php:364
+#: classes/admin/view/view.php:432 classes/admin/view/view.php:440
+#: classes/admin/view/view.php:446 classes/admin/view/view.php:525
+#: classes/admin/view/view.php:533 classes/admin/view/view.php:539
+#: classes/admin/view/view.php:609 classes/admin/view/view.php:617
+#: classes/admin/view/view.php:623 classes/admin/view/view.php:691
+#: classes/admin/view/view.php:699 classes/admin/view/view.php:705
+#: classes/admin/view/view.php:773 classes/admin/view/view.php:781
+#: classes/admin/view/view.php:787 classes/admin/view/view.php:859
+#: classes/admin/view/view.php:867 classes/admin/view/view.php:873
+#: classes/admin/view/view.php:934 classes/admin/view/view.php:942
+#: classes/admin/view/view.php:948 classes/admin/view/view.php:1016
+#: classes/admin/view/view.php:1024 classes/admin/view/view.php:1030
+#: classes/admin/view/view.php:1099 classes/admin/view/view.php:1107
+#: classes/admin/view/view.php:1113 classes/admin/view/view.php:1182
+#: classes/admin/view/view.php:1190 classes/admin/view/view.php:1196
+#: classes/admin/view/view.php:1265 classes/admin/view/view.php:1273
+#: classes/admin/view/view.php:1279 classes/admin/view/view.php:1463
+#: classes/admin/view/view.php:1475 classes/admin/view/view.php:1484
+#: classes/admin/view/view.php:1581 classes/admin/view/view.php:1589
+#: classes/admin/view/view.php:1595 classes/admin/view/view.php:1664
+#: classes/admin/view/view.php:1672 classes/admin/view/view.php:1678
+#: classes/admin/view/view.php:1752 classes/admin/view/view.php:1760
+#: classes/admin/view/view.php:1766 classes/admin/view/view.php:1840
+#: classes/admin/view/view.php:1848 classes/admin/view/view.php:1854
+#: classes/admin/view/view.php:1920 classes/admin/view/view.php:1928
+#: classes/admin/view/view.php:1934 classes/admin/view/view.php:2013
+#: classes/admin/view/view.php:2021 classes/admin/view/view.php:2027
+#: classes/admin/view/view.php:2102 classes/admin/view/view.php:2110
+#: classes/admin/view/view.php:2116 classes/admin/view/view.php:2181
+#: classes/admin/view/view.php:2189 classes/admin/view/view.php:2195
+#: classes/admin/view/view.php:2257 classes/admin/view/view.php:2265
+#: classes/admin/view/view.php:2271 classes/admin/view/view.php:2336
+#: classes/admin/view/view.php:2344 classes/admin/view/view.php:2350
+#: classes/admin/view/view.php:2408 classes/admin/view/view.php:2416
+#: classes/admin/view/view.php:2422 classes/admin/view/view.php:2489
+#: classes/admin/view/view.php:2497 classes/admin/view/view.php:2503
+#: classes/admin/view/view.php:2569 classes/admin/view/view.php:2577
+#: classes/admin/view/view.php:2583 classes/admin/view/view.php:2649
+#: classes/admin/view/view.php:2657 classes/admin/view/view.php:2663
+#: classes/admin/view/view.php:2731 classes/admin/view/view.php:2739
+#: classes/admin/view/view.php:2745 classes/admin/view/view.php:2920
+#: classes/admin/view/view.php:2932 classes/admin/view/view.php:2941
+#: classes/admin/view/view.php:3032 classes/admin/view/view.php:3040
+#: classes/admin/view/view.php:3046 classes/admin/view/view.php:3120
+#: classes/admin/view/view.php:3128 classes/admin/view/view.php:3134
+#: classes/admin/view/view.php:3209 classes/admin/view/view.php:3217
+#: classes/admin/view/view.php:3223 classes/admin/view/view.php:3296
+#: classes/admin/view/view.php:3304 classes/admin/view/view.php:3310
+#: classes/admin/view/view.php:3378 classes/admin/view/view.php:3386
+#: classes/admin/view/view.php:3392 classes/admin/view/view.php:3469
+#: classes/admin/view/view.php:3477 classes/admin/view/view.php:3483
+#: classes/admin/view/view.php:3551 classes/admin/view/view.php:3559
+#: classes/admin/view/view.php:3565 classes/admin/view/view.php:3630
+#: classes/admin/view/view.php:3638 classes/admin/view/view.php:3644
+#: classes/admin/view/view.php:3755 classes/admin/view/view.php:3763
+#: classes/admin/view/view.php:3769 classes/admin/view/view.php:3824
+#: classes/admin/view/view.php:3832 classes/admin/view/view.php:3838
+#: classes/admin/view/view.php:3907 classes/admin/view/view.php:3915
+#: classes/admin/view/view.php:3921 classes/admin/view/view.php:3988
+#: classes/admin/view/view.php:3996 classes/admin/view/view.php:4002
+#: classes/admin/view/view.php:4069 classes/admin/view/view.php:4077
+#: classes/admin/view/view.php:4083 classes/admin/view/view.php:4150
+#: classes/admin/view/view.php:4158 classes/admin/view/view.php:4164
+#: classes/admin/view/view.php:4229 classes/admin/view/view.php:4237
+#: classes/admin/view/view.php:4243 classes/admin/view/view.php:4415
+#: classes/admin/view/view.php:4427 classes/admin/view/view.php:4436
+msgid "Select"
+msgstr ""
+
+#: classes/admin/view/view.php:90 classes/admin/view/view.php:172
+#: classes/admin/view/view.php:260 classes/admin/view/view.php:351
+#: classes/admin/view/view.php:433 classes/admin/view/view.php:526
+#: classes/admin/view/view.php:610 classes/admin/view/view.php:692
+#: classes/admin/view/view.php:774 classes/admin/view/view.php:860
+#: classes/admin/view/view.php:935 classes/admin/view/view.php:1017
+#: classes/admin/view/view.php:1100 classes/admin/view/view.php:1183
+#: classes/admin/view/view.php:1266 classes/admin/view/view.php:1464
+#: classes/admin/view/view.php:1582 classes/admin/view/view.php:1665
+#: classes/admin/view/view.php:1753 classes/admin/view/view.php:1841
+#: classes/admin/view/view.php:1921 classes/admin/view/view.php:2014
+#: classes/admin/view/view.php:2103 classes/admin/view/view.php:2182
+#: classes/admin/view/view.php:2258 classes/admin/view/view.php:2337
+#: classes/admin/view/view.php:2409 classes/admin/view/view.php:2490
+#: classes/admin/view/view.php:2570 classes/admin/view/view.php:2650
+#: classes/admin/view/view.php:2732 classes/admin/view/view.php:2921
+#: classes/admin/view/view.php:3033 classes/admin/view/view.php:3121
+#: classes/admin/view/view.php:3210 classes/admin/view/view.php:3297
+#: classes/admin/view/view.php:3379 classes/admin/view/view.php:3470
+#: classes/admin/view/view.php:3552 classes/admin/view/view.php:3631
+#: classes/admin/view/view.php:3756 classes/admin/view/view.php:3825
+#: classes/admin/view/view.php:3908 classes/admin/view/view.php:3989
+#: classes/admin/view/view.php:4070 classes/admin/view/view.php:4151
+#: classes/admin/view/view.php:4230 classes/admin/view/view.php:4416
+msgid "Show"
+msgstr ""
+
+#: classes/admin/view/view.php:91 classes/admin/view/view.php:173
+#: classes/admin/view/view.php:261 classes/admin/view/view.php:352
+#: classes/admin/view/view.php:434 classes/admin/view/view.php:527
+#: classes/admin/view/view.php:611 classes/admin/view/view.php:693
+#: classes/admin/view/view.php:775 classes/admin/view/view.php:861
+#: classes/admin/view/view.php:936 classes/admin/view/view.php:1018
+#: classes/admin/view/view.php:1101 classes/admin/view/view.php:1184
+#: classes/admin/view/view.php:1267 classes/admin/view/view.php:1465
+#: classes/admin/view/view.php:1583 classes/admin/view/view.php:1666
+#: classes/admin/view/view.php:1754 classes/admin/view/view.php:1842
+#: classes/admin/view/view.php:1922 classes/admin/view/view.php:2015
+#: classes/admin/view/view.php:2104 classes/admin/view/view.php:2183
+#: classes/admin/view/view.php:2259 classes/admin/view/view.php:2338
+#: classes/admin/view/view.php:2410 classes/admin/view/view.php:2491
+#: classes/admin/view/view.php:2571 classes/admin/view/view.php:2651
+#: classes/admin/view/view.php:2733 classes/admin/view/view.php:2922
+#: classes/admin/view/view.php:3034 classes/admin/view/view.php:3122
+#: classes/admin/view/view.php:3211 classes/admin/view/view.php:3298
+#: classes/admin/view/view.php:3380 classes/admin/view/view.php:3471
+#: classes/admin/view/view.php:3553 classes/admin/view/view.php:3632
+#: classes/admin/view/view.php:3757 classes/admin/view/view.php:3826
+#: classes/admin/view/view.php:3909 classes/admin/view/view.php:3990
+#: classes/admin/view/view.php:4071 classes/admin/view/view.php:4152
+#: classes/admin/view/view.php:4231 classes/admin/view/view.php:4417
+msgid "Hide"
+msgstr ""
+
+#: classes/admin/view/view.php:94 classes/admin/view/view.php:176
+#: classes/admin/view/view.php:264 classes/admin/view/view.php:355
+#: classes/admin/view/view.php:437 classes/admin/view/view.php:530
+#: classes/admin/view/view.php:614 classes/admin/view/view.php:696
+#: classes/admin/view/view.php:778 classes/admin/view/view.php:864
+#: classes/admin/view/view.php:939 classes/admin/view/view.php:1021
+#: classes/admin/view/view.php:1104 classes/admin/view/view.php:1187
+#: classes/admin/view/view.php:1270 classes/admin/view/view.php:1468
+#: classes/admin/view/view.php:1586 classes/admin/view/view.php:1669
+#: classes/admin/view/view.php:1757 classes/admin/view/view.php:1845
+#: classes/admin/view/view.php:1925 classes/admin/view/view.php:2018
+#: classes/admin/view/view.php:2107 classes/admin/view/view.php:2186
+#: classes/admin/view/view.php:2262 classes/admin/view/view.php:2341
+#: classes/admin/view/view.php:2413 classes/admin/view/view.php:2494
+#: classes/admin/view/view.php:2574 classes/admin/view/view.php:2654
+#: classes/admin/view/view.php:2736 classes/admin/view/view.php:2925
+#: classes/admin/view/view.php:3037 classes/admin/view/view.php:3125
+#: classes/admin/view/view.php:3214 classes/admin/view/view.php:3301
+#: classes/admin/view/view.php:3383 classes/admin/view/view.php:3474
+#: classes/admin/view/view.php:3556 classes/admin/view/view.php:3635
+#: classes/admin/view/view.php:3760 classes/admin/view/view.php:3829
+#: classes/admin/view/view.php:3912 classes/admin/view/view.php:3993
+#: classes/admin/view/view.php:4074 classes/admin/view/view.php:4155
+#: classes/admin/view/view.php:4234 classes/admin/view/view.php:4420
+msgid "if value of"
+msgstr ""
+
+#: classes/admin/view/view.php:104 classes/admin/view/view.php:186
+#: classes/admin/view/view.php:274 classes/admin/view/view.php:365
+#: classes/admin/view/view.php:447 classes/admin/view/view.php:540
+#: classes/admin/view/view.php:624 classes/admin/view/view.php:706
+#: classes/admin/view/view.php:788 classes/admin/view/view.php:874
+#: classes/admin/view/view.php:949 classes/admin/view/view.php:1031
+#: classes/admin/view/view.php:1114 classes/admin/view/view.php:1197
+#: classes/admin/view/view.php:1280 classes/admin/view/view.php:1485
+#: classes/admin/view/view.php:1596 classes/admin/view/view.php:1679
+#: classes/admin/view/view.php:1767 classes/admin/view/view.php:1855
+#: classes/admin/view/view.php:1935 classes/admin/view/view.php:2028
+#: classes/admin/view/view.php:2117 classes/admin/view/view.php:2196
+#: classes/admin/view/view.php:2272 classes/admin/view/view.php:2351
+#: classes/admin/view/view.php:2423 classes/admin/view/view.php:2504
+#: classes/admin/view/view.php:2584 classes/admin/view/view.php:2664
+#: classes/admin/view/view.php:2746 classes/admin/view/view.php:2942
+#: classes/admin/view/view.php:3047 classes/admin/view/view.php:3135
+#: classes/admin/view/view.php:3224 classes/admin/view/view.php:3311
+#: classes/admin/view/view.php:3393 classes/admin/view/view.php:3484
+#: classes/admin/view/view.php:3566 classes/admin/view/view.php:3645
+#: classes/admin/view/view.php:3770 classes/admin/view/view.php:3839
+#: classes/admin/view/view.php:3922 classes/admin/view/view.php:4003
+#: classes/admin/view/view.php:4084 classes/admin/view/view.php:4165
+#: classes/admin/view/view.php:4244 classes/admin/view/view.php:4437
+msgid "is not empty"
+msgstr ""
+
+#: classes/admin/view/view.php:105 classes/admin/view/view.php:187
+#: classes/admin/view/view.php:275 classes/admin/view/view.php:366
+#: classes/admin/view/view.php:448 classes/admin/view/view.php:541
+#: classes/admin/view/view.php:625 classes/admin/view/view.php:707
+#: classes/admin/view/view.php:789 classes/admin/view/view.php:875
+#: classes/admin/view/view.php:950 classes/admin/view/view.php:1032
+#: classes/admin/view/view.php:1115 classes/admin/view/view.php:1198
+#: classes/admin/view/view.php:1281 classes/admin/view/view.php:1486
+#: classes/admin/view/view.php:1597 classes/admin/view/view.php:1680
+#: classes/admin/view/view.php:1768 classes/admin/view/view.php:1856
+#: classes/admin/view/view.php:1936 classes/admin/view/view.php:2029
+#: classes/admin/view/view.php:2118 classes/admin/view/view.php:2197
+#: classes/admin/view/view.php:2273 classes/admin/view/view.php:2352
+#: classes/admin/view/view.php:2424 classes/admin/view/view.php:2505
+#: classes/admin/view/view.php:2585 classes/admin/view/view.php:2665
+#: classes/admin/view/view.php:2747 classes/admin/view/view.php:2943
+#: classes/admin/view/view.php:3048 classes/admin/view/view.php:3136
+#: classes/admin/view/view.php:3225 classes/admin/view/view.php:3312
+#: classes/admin/view/view.php:3394 classes/admin/view/view.php:3485
+#: classes/admin/view/view.php:3567 classes/admin/view/view.php:3646
+#: classes/admin/view/view.php:3771 classes/admin/view/view.php:3840
+#: classes/admin/view/view.php:3923 classes/admin/view/view.php:4004
+#: classes/admin/view/view.php:4085 classes/admin/view/view.php:4166
+#: classes/admin/view/view.php:4245 classes/admin/view/view.php:4438
+msgid "is equal to"
+msgstr ""
+
+#: classes/admin/view/view.php:106 classes/admin/view/view.php:188
+#: classes/admin/view/view.php:276 classes/admin/view/view.php:367
+#: classes/admin/view/view.php:449 classes/admin/view/view.php:542
+#: classes/admin/view/view.php:626 classes/admin/view/view.php:708
+#: classes/admin/view/view.php:790 classes/admin/view/view.php:876
+#: classes/admin/view/view.php:951 classes/admin/view/view.php:1033
+#: classes/admin/view/view.php:1116 classes/admin/view/view.php:1199
+#: classes/admin/view/view.php:1282 classes/admin/view/view.php:1487
+#: classes/admin/view/view.php:1598 classes/admin/view/view.php:1681
+#: classes/admin/view/view.php:1769 classes/admin/view/view.php:1857
+#: classes/admin/view/view.php:1937 classes/admin/view/view.php:2030
+#: classes/admin/view/view.php:2119 classes/admin/view/view.php:2198
+#: classes/admin/view/view.php:2274 classes/admin/view/view.php:2353
+#: classes/admin/view/view.php:2425 classes/admin/view/view.php:2506
+#: classes/admin/view/view.php:2586 classes/admin/view/view.php:2666
+#: classes/admin/view/view.php:2748 classes/admin/view/view.php:2944
+#: classes/admin/view/view.php:3049 classes/admin/view/view.php:3137
+#: classes/admin/view/view.php:3226 classes/admin/view/view.php:3313
+#: classes/admin/view/view.php:3395 classes/admin/view/view.php:3486
+#: classes/admin/view/view.php:3568 classes/admin/view/view.php:3647
+#: classes/admin/view/view.php:3772 classes/admin/view/view.php:3841
+#: classes/admin/view/view.php:3924 classes/admin/view/view.php:4005
+#: classes/admin/view/view.php:4086 classes/admin/view/view.php:4167
+#: classes/admin/view/view.php:4246 classes/admin/view/view.php:4439
+msgid "is not equal to"
+msgstr ""
+
+#: classes/admin/view/view.php:107 classes/admin/view/view.php:189
+#: classes/admin/view/view.php:277 classes/admin/view/view.php:368
+#: classes/admin/view/view.php:450 classes/admin/view/view.php:543
+#: classes/admin/view/view.php:627 classes/admin/view/view.php:709
+#: classes/admin/view/view.php:791 classes/admin/view/view.php:877
+#: classes/admin/view/view.php:952 classes/admin/view/view.php:1034
+#: classes/admin/view/view.php:1117 classes/admin/view/view.php:1200
+#: classes/admin/view/view.php:1283 classes/admin/view/view.php:1488
+#: classes/admin/view/view.php:1599 classes/admin/view/view.php:1682
+#: classes/admin/view/view.php:1770 classes/admin/view/view.php:1858
+#: classes/admin/view/view.php:1938 classes/admin/view/view.php:2031
+#: classes/admin/view/view.php:2120 classes/admin/view/view.php:2199
+#: classes/admin/view/view.php:2275 classes/admin/view/view.php:2354
+#: classes/admin/view/view.php:2426 classes/admin/view/view.php:2507
+#: classes/admin/view/view.php:2587 classes/admin/view/view.php:2667
+#: classes/admin/view/view.php:2749 classes/admin/view/view.php:2945
+#: classes/admin/view/view.php:3050 classes/admin/view/view.php:3138
+#: classes/admin/view/view.php:3227 classes/admin/view/view.php:3314
+#: classes/admin/view/view.php:3396 classes/admin/view/view.php:3487
+#: classes/admin/view/view.php:3569 classes/admin/view/view.php:3648
+#: classes/admin/view/view.php:3773 classes/admin/view/view.php:3842
+#: classes/admin/view/view.php:3925 classes/admin/view/view.php:4006
+#: classes/admin/view/view.php:4087 classes/admin/view/view.php:4168
+#: classes/admin/view/view.php:4247 classes/admin/view/view.php:4440
+msgid "is checked"
+msgstr ""
+
+#: classes/admin/view/view.php:230 classes/admin/view/view.php:321
+#: classes/admin/view/view.php:493 classes/admin/view/view.php:1351
+#: classes/admin/view/view.php:1381 classes/admin/view/view.php:1723
+#: classes/admin/view/view.php:1812 classes/admin/view/view.php:1980
+#: classes/admin/view/view.php:2817 classes/admin/view/view.php:2846
+#: classes/admin/view/view.php:3179 classes/admin/view/view.php:3269
+#: classes/admin/view/view.php:3438 classes/admin/view/view.php:4312
+#: classes/admin/view/view.php:4339
+msgid "Options:"
+msgstr ""
+
+#: classes/admin/view/view.php:468 classes/admin/view/view.php:474
+#: classes/admin/view/view.php:477 classes/admin/view/view.php:1955
+#: classes/admin/view/view.php:1961 classes/admin/view/view.php:1964
+#: classes/admin/view/view.php:3413 classes/admin/view/view.php:3419
+#: classes/admin/view/view.php:3422
+msgid "Radio Select"
+msgstr ""
+
+#: classes/admin/view/view.php:562 classes/admin/view/view.php:568
+#: classes/admin/view/view.php:571 classes/admin/view/view.php:2048
+#: classes/admin/view/view.php:2054 classes/admin/view/view.php:2057
+#: classes/admin/view/view.php:3506 classes/admin/view/view.php:3512
+#: classes/admin/view/view.php:3515
+msgid "Date Picker"
+msgstr ""
+
+#: classes/admin/view/view.php:644 classes/admin/view/view.php:650
+#: classes/admin/view/view.php:653 classes/admin/view/view.php:2136
+#: classes/admin/view/view.php:2142 classes/admin/view/view.php:2145
+#: classes/admin/view/view.php:3585 classes/admin/view/view.php:3591
+#: classes/admin/view/view.php:3594
+msgid "Time Picker"
+msgstr ""
+
+#: classes/admin/view/view.php:732
+msgid "Image upload"
+msgstr ""
+
+#: classes/admin/view/view.php:753 classes/admin/view/view.php:1428
+#: classes/admin/view/view.php:2891 classes/admin/view/view.php:4385
+msgid "File Extensions(seperate by ,):"
+msgstr ""
+
+#: classes/admin/view/view.php:814 classes/admin/view/view.php:2297
+#: classes/admin/view/view.php:3712
+msgid "Heading"
+msgstr ""
+
+#: classes/admin/view/view.php:839 classes/admin/view/view.php:1404
+#: classes/admin/view/view.php:2318 classes/admin/view/view.php:2865
+#: classes/admin/view/view.php:3737 classes/admin/view/view.php:4359
+msgid "Heading Type:"
+msgstr ""
+
+#: classes/admin/view/view.php:902 classes/admin/view/view.php:2378
+#: classes/admin/view/view.php:3796
+msgid "Message Only"
+msgstr ""
+
+#: classes/admin/view/view.php:975 classes/admin/view/view.php:2449
+#: classes/admin/view/view.php:3865
+msgid "Password"
+msgstr ""
+
+#: classes/admin/view/view.php:1057 classes/admin/view/view.php:2529
+#: classes/admin/view/view.php:3947
+msgid "Phone Number"
+msgstr ""
+
+#: classes/admin/view/view.php:1140 classes/admin/view/view.php:2609
+#: classes/admin/view/view.php:4028
+msgid "Number"
+msgstr ""
+
+#: classes/admin/view/view.php:1223 classes/admin/view/view.php:2689
+#: classes/admin/view/view.php:4109
+msgid "Color Picker"
+msgstr ""
+
+#: classes/admin/view/view.php:4267
+msgid "Verification Form Fields"
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:83
+msgid "You are not allowed to access this part of the site"
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:246
+msgid ""
+"<span class = req>*<span><input type=\"file\" name=\"image_billing\" id="
+"\"image_billing"
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:248
+msgid ""
+"<span> (optional)<span><input type=\"file\" name=\"image_billing\" id="
+"\"image_billing"
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:663
+msgid ""
+"<span class = req>*<span><input type=\"file\" name=\"image_shipping\" id="
+"\"image_shipping"
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:665
+msgid ""
+"<span> (optional)<span><input type=\"file\" name=\"image_shipping\" id="
+"\"image_shipping"
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:1392
+msgid "Invalid "
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:1405
+#: classes/public/class.kineticpay-checkout-fields-public.php:1419
+#: classes/public/class.kineticpay-checkout-fields-public.php:1435
+msgid " is a required field"
+msgstr ""
+
+#: classes/public/class.kineticpay-checkout-fields-public.php:1496
+msgid ":"
+msgstr ""
+
+#: classes/public/class.kineticpay-public.php:122
+#: classes/public/class.kineticpay-public.php:139
+msgid "First Name has been blocked by worldwide ban."
+msgstr ""
+
+#: classes/public/class.kineticpay-public.php:126
+#: classes/public/class.kineticpay-public.php:143
+msgid "Last Name has been blocked by worldwide ban."
+msgstr ""
+
+#: classes/public/class.kineticpay-public.php:130
+#: classes/public/class.kineticpay-public.php:147
+msgid "Phone has been blocked by worldwide ban."
+msgstr ""
+
+#: classes/public/class.kineticpay-public.php:134
+msgid "Identification Card has been blocked by worldwide ban."
+msgstr ""
+
+#: classes/public/class.kineticpay-public.php:183
+msgid "Your details has been blacklisted."
+msgstr ""
+
+#: src/kineticpay.php:15 src/kineticpay.php:17 src/kineticpay.php:50
+msgid "kineticPay"
+msgstr ""
+
+#: src/kineticpay.php:16
+msgid "Enable your customers to make payments securely via kineticPay."
+msgstr ""
+
+#: src/kineticpay.php:41
+msgid "Enable / Disable"
+msgstr ""
+
+#: src/kineticpay.php:42
+msgid "Enable this payment gateway"
+msgstr ""
+
+#: src/kineticpay.php:48
+msgid "Title"
+msgstr ""
+
+#: src/kineticpay.php:54
+msgid "Description"
+msgstr ""
+
+#: src/kineticpay.php:56
+msgid "Pay securely with kineticPay."
+msgstr ""
+
+#: src/kineticpay.php:61
+msgid "Merchant Key"
+msgstr ""
+
+#: src/kineticpay.php:63
+msgid "Required"
+msgstr ""
+
+#: src/kineticpay.php:64
+msgid "Obtain your merchant key from your kineticPay dashboard."
+msgstr ""
+
+#: src/kineticpay.php:89
+msgid ""
+"Error! Please complete your details (Name, phone, and e-mail are compulsory)."
+msgstr ""
+
+#: src/kineticpay.php:200
+msgid "Payment Successful. Your payment has been successfully completed."
+msgstr ""
+
+#: src/kineticpay.php:208 src/kineticpay.php:215
+msgid "Sorry, your payment failed. No charges were made."
+msgstr ""
